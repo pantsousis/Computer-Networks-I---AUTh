@@ -1,0 +1,3 @@
+Packets successfully loaded: 4109
+Packets rejected and repeated: 1174
+Total requests: 5283

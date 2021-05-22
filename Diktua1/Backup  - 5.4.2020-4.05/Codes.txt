@@ -1,0 +1,26 @@
+Εργασία σε δικτυακό προγραμματισμό : Java serial communications
+
+Echo request code
+
+Image request code
+
+Image request code
+
+GPS request code
+
+ACK result code
+
+NACK result code
+
+
+: E2956
+
+: M8546 (Tx/Rx error free)
+
+: G7065 (Tx/Rx with errors)
+
+: P7134
+
+: Q0411
+
+: R3121

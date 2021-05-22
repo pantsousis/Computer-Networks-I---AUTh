@@ -1,0 +1,29 @@
+
+
+Echo request code
+
+Image request code
+
+Image request code
+
+GPS request code
+
+ACK result code
+
+NACK result code
+
+
+: E8529
+
+: M7825 (Tx/Rx error free)
+
+: G2803 (Tx/Rx with errors)
+
+: P9557
+
+: Q2785
+
+: R1291
+
+R=1000170 -> Απόσταση 15 sec
+

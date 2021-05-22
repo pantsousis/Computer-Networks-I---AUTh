@@ -1,0 +1,7 @@
+Retransmissions number, Times occured
+0, 4352
+1, 698
+2, 129
+3, 21
+4, 6
+5, 1
